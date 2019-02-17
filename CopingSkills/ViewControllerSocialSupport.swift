@@ -1,14 +1,14 @@
 //
-//  ViewController.swift
+//  ViewControllerSocialSupport.swift
 //  CopingSkills
 //
-//  Created by Abhinav Bharat on 1/26/19.
+//  Created by Abhinav Bharat on 2/2/19.
 //  Copyright © 2019 Abhinav Bharat. All rights reserved.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class ViewControllerSocialSupport: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
